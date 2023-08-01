@@ -1,3 +1,3 @@
 console.log("JS loaded");
 console.log("hello");
-console.log("Hello, World!");
+console.log("Hello, World");
